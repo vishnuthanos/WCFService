@@ -1,0 +1,28 @@
+D:\Soutions\WCF\CrudWCF\CrudWCF\bin\CrudWCF.dll.config
+D:\Soutions\WCF\CrudWCF\CrudWCF\bin\CrudWCF.dll
+D:\Soutions\WCF\CrudWCF\CrudWCF\bin\CrudWCF.pdb
+D:\Soutions\WCF\CrudWCF\CrudWCF\obj\Debug\CrudWCF.csprojAssemblyReference.cache
+D:\Soutions\WCF\CrudWCF\CrudWCF\obj\Debug\CrudWCF.csproj.CoreCompileInputs.cache
+D:\Soutions\WCF\CrudWCF\CrudWCF\obj\Debug\CrudWCF.dll
+D:\Soutions\WCF\CrudWCF\CrudWCF\obj\Debug\CrudWCF.pdb
+D:\Soutions\WCF\IIS crudWCF\CrudWCF\CrudWCF\bin\CrudWCF.dll.config
+D:\Soutions\WCF\IIS crudWCF\CrudWCF\CrudWCF\bin\CrudWCF.dll
+D:\Soutions\WCF\IIS crudWCF\CrudWCF\CrudWCF\bin\CrudWCF.pdb
+D:\Soutions\WCF\IIS crudWCF\CrudWCF\CrudWCF\obj\Debug\CrudWCF.csprojAssemblyReference.cache
+D:\Soutions\WCF\IIS crudWCF\CrudWCF\CrudWCF\obj\Debug\CrudWCF.csproj.CoreCompileInputs.cache
+D:\Soutions\WCF\IIS crudWCF\CrudWCF\CrudWCF\obj\Debug\CrudWCF.dll
+D:\Soutions\WCF\IIS crudWCF\CrudWCF\CrudWCF\obj\Debug\CrudWCF.pdb
+D:\Soutions\WCF\IIS crudWCF - Copy\CrudWCF\CrudWCF\obj\Debug\CrudWCF.dll
+D:\Soutions\WCF\IIS crudWCF - Copy\CrudWCF\CrudWCF\obj\Debug\CrudWCF.pdb
+D:\Soutions\WCF\IIS crudWCF - Copy\CrudWCF\CrudWCF\bin\CrudWCF.dll.config
+D:\Soutions\WCF\IIS crudWCF - Copy\CrudWCF\CrudWCF\bin\CrudWCF.dll
+D:\Soutions\WCF\IIS crudWCF - Copy\CrudWCF\CrudWCF\bin\CrudWCF.pdb
+D:\Soutions\WCF\IIS crudWCF - Copy\CrudWCF\CrudWCF\obj\Debug\CrudWCF.csprojAssemblyReference.cache
+D:\Soutions\WCF\IIS crudWCF - Copy\CrudWCF\CrudWCF\obj\Debug\CrudWCF.csproj.CoreCompileInputs.cache
+D:\Soutions\WCF\CrudWCF\CrudWCF\CrudWCF\bin\CrudWCF.dll.config
+D:\Soutions\WCF\CrudWCF\CrudWCF\CrudWCF\bin\CrudWCF.dll
+D:\Soutions\WCF\CrudWCF\CrudWCF\CrudWCF\bin\CrudWCF.pdb
+D:\Soutions\WCF\CrudWCF\CrudWCF\CrudWCF\obj\Debug\CrudWCF.csprojAssemblyReference.cache
+D:\Soutions\WCF\CrudWCF\CrudWCF\CrudWCF\obj\Debug\CrudWCF.csproj.CoreCompileInputs.cache
+D:\Soutions\WCF\CrudWCF\CrudWCF\CrudWCF\obj\Debug\CrudWCF.dll
+D:\Soutions\WCF\CrudWCF\CrudWCF\CrudWCF\obj\Debug\CrudWCF.pdb

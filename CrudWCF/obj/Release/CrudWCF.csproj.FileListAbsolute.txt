@@ -1,0 +1,28 @@
+D:\Soutions\WCF\CrudWCF\CrudWCF\bin\CrudWCF.dll.config
+D:\Soutions\WCF\CrudWCF\CrudWCF\bin\CrudWCF.dll
+D:\Soutions\WCF\CrudWCF\CrudWCF\bin\CrudWCF.pdb
+D:\Soutions\WCF\CrudWCF\CrudWCF\obj\Release\CrudWCF.csprojAssemblyReference.cache
+D:\Soutions\WCF\CrudWCF\CrudWCF\obj\Release\CrudWCF.csproj.CoreCompileInputs.cache
+D:\Soutions\WCF\CrudWCF\CrudWCF\obj\Release\CrudWCF.dll
+D:\Soutions\WCF\CrudWCF\CrudWCF\obj\Release\CrudWCF.pdb
+D:\Soutions\WCF\IIS crudWCF - Copy\CrudWCF\CrudWCF\bin\CrudWCF.dll.config
+D:\Soutions\WCF\IIS crudWCF - Copy\CrudWCF\CrudWCF\bin\CrudWCF.dll
+D:\Soutions\WCF\IIS crudWCF - Copy\CrudWCF\CrudWCF\bin\CrudWCF.pdb
+D:\Soutions\WCF\IIS crudWCF - Copy\CrudWCF\CrudWCF\obj\Release\CrudWCF.csprojAssemblyReference.cache
+D:\Soutions\WCF\IIS crudWCF - Copy\CrudWCF\CrudWCF\obj\Release\CrudWCF.csproj.CoreCompileInputs.cache
+D:\Soutions\WCF\IIS crudWCF - Copy\CrudWCF\CrudWCF\obj\Release\CrudWCF.dll
+D:\Soutions\WCF\IIS crudWCF - Copy\CrudWCF\CrudWCF\obj\Release\CrudWCF.pdb
+D:\Soutions\WCF\CrudWCF\CrudWCF\CrudWCF\bin\CrudWCF.dll.config
+D:\Soutions\WCF\CrudWCF\CrudWCF\CrudWCF\bin\CrudWCF.dll
+D:\Soutions\WCF\CrudWCF\CrudWCF\CrudWCF\bin\CrudWCF.pdb
+D:\Soutions\WCF\CrudWCF\CrudWCF\CrudWCF\obj\Release\CrudWCF.csprojAssemblyReference.cache
+D:\Soutions\WCF\CrudWCF\CrudWCF\CrudWCF\obj\Release\CrudWCF.csproj.CoreCompileInputs.cache
+D:\Soutions\WCF\CrudWCF\CrudWCF\CrudWCF\obj\Release\CrudWCF.dll
+D:\Soutions\WCF\CrudWCF\CrudWCF\CrudWCF\obj\Release\CrudWCF.pdb
+D:\Soutions\WCF\Achive wcf Task\CrudWCF\CrudWCF\bin\CrudWCF.dll.config
+D:\Soutions\WCF\Achive wcf Task\CrudWCF\CrudWCF\bin\CrudWCF.dll
+D:\Soutions\WCF\Achive wcf Task\CrudWCF\CrudWCF\bin\CrudWCF.pdb
+D:\Soutions\WCF\Achive wcf Task\CrudWCF\CrudWCF\obj\Release\CrudWCF.csprojAssemblyReference.cache
+D:\Soutions\WCF\Achive wcf Task\CrudWCF\CrudWCF\obj\Release\CrudWCF.csproj.CoreCompileInputs.cache
+D:\Soutions\WCF\Achive wcf Task\CrudWCF\CrudWCF\obj\Release\CrudWCF.dll
+D:\Soutions\WCF\Achive wcf Task\CrudWCF\CrudWCF\obj\Release\CrudWCF.pdb
